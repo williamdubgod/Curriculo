@@ -2,8 +2,7 @@ import React, { useState, ReactNode, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { Github, Linkedin, Mail, Download, Menu, X, Phone, Award, BookOpen, Code, Star, MapPin, Calendar, User, Rocket, Search } from 'lucide-react';
-import html2pdf from 'html2pdf.js';
-import eu from './assets/eu.jpg'
+import eu from '../eu.jpg'
 
 interface AnimatedSectionProps {
   children: ReactNode;
