@@ -193,7 +193,7 @@ function App() {
             
             <AnimatedSection className="bg-gray-900 rounded-lg shadow-xl p-8">
               <p className="text-gray-300 leading-relaxed mb-6">
-                Sou um desenvolvedor front-end em início de carreira, com uma paixão ardente por criar experiências digitais excepcionais. 
+                Sou um desenvolvedor front-end em início de carreira, com anseio por criar experiências digitais excepcionais. 
                 Minha jornada inclui 6 meses de experiência prática na MadeInWeb e Mobile, onde desenvolvi habilidades sólidas em React.js e Vue.js.
               </p>
               <p className="text-gray-300 leading-relaxed mb-6">
