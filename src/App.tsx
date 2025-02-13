@@ -652,9 +652,9 @@ function App() {
                     Website desenvolvido para uma associação esportiva, com foco em apresentar informações sobre atividades e eventos.
                   </p>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">HTML5</span>
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">CSS3</span>
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">JavaScript</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">React</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">Tailwind CSS</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">TypeScript</span>
                   </div>
                   <div className="flex justify-between">
                     <a 
@@ -681,32 +681,23 @@ function App() {
 
               <AnimatedSection className="bg-gray-900 rounded-lg shadow-xl overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=800&q=80"
-                  alt="BioTube"
+                  src="https://files.sunoresearch.com.br/p/uploads/2017/12/financas-pessoais.jpg.jpg"
+                  alt="FinanceFlow"
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-blue-300 mb-2">BioTube - Canudos Ecológicos</h3>
+                  <h3 className="text-xl font-bold text-blue-300 mb-2">FinanceFlow - Controle de Finanças</h3>
                   <p className="text-gray-300 mb-4">
-                    E-commerce desenvolvido para uma empresa de canudos ecológicos, focando em sustentabilidade e experiência do usuário.
+                  Aplicativo web moderno para gerenciamento de finanças pessoais, desenvolvido com React, TypeScript e Tailwind CSS.
                   </p>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">HTML5</span>
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">CSS3</span>
-                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">JavaScript</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">React</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">Tailwind CSS</span>
+                    <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">TypeScript</span>
                   </div>
                   <div className="flex justify-between">
                     <a 
-                      href="https://github.com/williamdubgod/BioTube" 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="text-blue-400 hover:text-blue-300 flex items-center"
-                    >
-                      <Code size={20} className="mr-2" />
-                      Código
-                    </a>
-                    <a 
-                      href="https://williamdubgod.github.io/BioTube/" 
+                      href="https://financesflow.netlify.app" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-blue-400 hover:text-blue-300 flex items-center"
